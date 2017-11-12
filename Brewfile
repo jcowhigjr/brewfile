@@ -47,6 +47,8 @@ cask sublime-text
 cask google-chrome
 cask xquartz
 cask sourcetree
+cask quantum
+cask canary
 
 tap caskroom/versions
 
