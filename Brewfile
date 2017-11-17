@@ -47,8 +47,10 @@ cask sublime-text
 cask google-chrome
 cask xquartz
 cask sourcetree
-cask canary
+cask chrome-devtools
 cask minitube
+cask visual-studio-code
+cask google-chrome-canary
 
 tap caskroom/versions
 
