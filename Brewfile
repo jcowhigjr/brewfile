@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew antigen
 brew cmake
 brew ctop
 brew docker
