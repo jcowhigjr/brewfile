@@ -64,6 +64,9 @@ cask sourcetree
 tap caskroom/versions
 cask google-chrome-canary
 
+tap caskroom/fonts
+cask font-hack-nerd-font
+
 tap rcmdnk/file
 brew brew-file
 
