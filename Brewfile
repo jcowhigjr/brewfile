@@ -50,22 +50,26 @@ tap homebrew/services
 tap caskroom/cask
 cask atom
 cask chrome-devtools
+cask virtualbox
 cask visual-studio-code
+cask kitematic
 cask flycut
 cask iterm2
 cask docker
+cask vagrant
 cask sublime-text
+cask vagrant-manager
 cask firefox
 cask minitube
 cask google-chrome
 cask xquartz
 cask sourcetree
 
-tap caskroom/versions
-cask google-chrome-canary
-
 tap caskroom/fonts
 cask font-hack-nerd-font
+
+tap caskroom/versions
+cask google-chrome-canary
 
 tap rcmdnk/file
 brew brew-file
