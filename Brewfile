@@ -43,6 +43,8 @@ brew tree
 brew webp
 brew wget
 brew xz
+brew zsh
+brew zsh-completions
 
 tap homebrew/bundle
 
@@ -54,6 +56,8 @@ cask chrome-devtools
 cask virtualbox
 cask visual-studio-code
 cask kitematic
+cask spotify
+cask vlc
 cask flycut
 cask iterm2
 cask docker
@@ -62,6 +66,7 @@ cask sublime-text
 cask vagrant-manager
 cask firefox
 cask minitube
+cask vox
 cask google-chrome
 cask xquartz
 cask sourcetree
