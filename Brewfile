@@ -37,8 +37,10 @@ brew pv
 brew python
 brew qt@5.5
 brew readline
+brew sphinx-doc
 brew sqlite
 brew swig
+brew the_silver_searcher
 brew tree
 brew webp
 brew wget
