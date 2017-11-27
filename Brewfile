@@ -64,6 +64,7 @@ cask flycut
 cask iterm2
 cask docker
 cask vagrant
+cask caffeine
 cask sublime-text
 cask vagrant-manager
 cask firefox
