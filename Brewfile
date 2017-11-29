@@ -42,6 +42,7 @@ brew sqlite
 brew swig
 brew the_silver_searcher
 brew tree
+brew watch
 brew webp
 brew wget
 brew xz
@@ -64,14 +65,17 @@ cask flycut
 cask iterm2
 cask docker
 cask vagrant
+cask istat-menus
 cask caffeine
 cask sublime-text
 cask vagrant-manager
 cask firefox
 cask minitube
+cask istat-server
 cask vox
 cask google-chrome
 cask xquartz
+cask filezilla
 cask sourcetree
 
 tap caskroom/fonts
