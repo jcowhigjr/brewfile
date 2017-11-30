@@ -77,6 +77,7 @@ cask google-chrome
 cask xquartz
 cask filezilla
 cask sourcetree
+cask google-hangouts
 
 tap caskroom/fonts
 cask font-hack-nerd-font
