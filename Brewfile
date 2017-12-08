@@ -78,6 +78,7 @@ cask xquartz
 cask filezilla
 cask sourcetree
 cask google-hangouts
+cask mysqlworkbench
 
 tap caskroom/fonts
 cask font-hack-nerd-font
@@ -95,4 +96,4 @@ appstore 409183694 Keynote (7.3.1)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 822514576 SonicWall Mobile Connect (5.0.0)
-appstore 497799835 Xcode (9.1)
+appstore 497799835 Xcode (9.2)
