@@ -19,10 +19,13 @@ brew htop
 brew imagemagick@6
 brew jpeg
 brew libevent
+brew libidn2
 brew libpng
 brew libtiff
 brew libtool
+brew libunistring
 brew little-cms2
+brew lynx
 brew mas
 brew memcached
 brew mosh
@@ -30,6 +33,7 @@ brew mysql@5.6
 brew ncdu
 brew openssl
 brew openssl@1.1
+brew p7zip
 brew pcre
 brew pkg-config
 brew protobuf
@@ -54,40 +58,57 @@ tap homebrew/bundle
 tap homebrew/services
 
 tap caskroom/cask
-cask atom
-cask chrome-devtools
-cask virtualbox
-cask visual-studio-code
-cask kitematic
-cask spotify
-cask vlc
-cask flycut
-cask iterm2
-cask docker
-cask vagrant
-cask istat-menus
-cask caffeine
-cask sublime-text
-cask vagrant-manager
-cask firefox
-cask minitube
-cask istat-server
-cask vox
-cask google-chrome
-cask xquartz
-cask filezilla
-cask sourcetree
-cask google-hangouts
-cask mysqlworkbench
 
 tap caskroom/fonts
-cask font-hack-nerd-font
 
 tap caskroom/versions
-cask google-chrome-canary
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew chromedriver
+
+# Other Cask applications
+cask android-file-transfer
+cask atom
+cask caffeine
+cask catlight
+cask chrome-devtools
+cask docker
+cask doubletwist
+cask filezilla
+cask firefox
+cask flycut
+cask font-hack-nerd-font
+cask google-backup-and-sync
+cask google-chat
+cask google-chrome
+cask google-chrome-canary
+cask google-cloud-sdk
+cask google-hangouts
+cask google-notifier
+cask istat-menus
+cask istat-server
+cask iterm2
+cask kindle
+cask kitematic
+cask minitube
+cask musictube
+cask mysqlworkbench
+cask resilio-sync
+cask sourcetree
+cask spotify
+cask sublime-text
+cask telegram
+cask vagrant
+cask vagrant-manager
+cask virtualbox
+cask visual-studio-code
+cask vlc
+cask vox
+cask whatsapp
+cask xquartz
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
@@ -95,5 +116,5 @@ appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
-appstore 822514576 SonicWall Mobile Connect (5.0.0)
+appstore 822514576 SonicWall Mobile Connect (5.0.1)
 appstore 497799835 Xcode (9.2)
