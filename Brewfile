@@ -95,6 +95,9 @@ brew cask install vlc
 brew cask install whatsapp
 brew cask install xquartz
 
+brew tap puma/puma
+brew install puma-dev
+
 brew tap rcmdnk/file
 brew install brew-file
 
