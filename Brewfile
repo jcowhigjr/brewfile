@@ -80,20 +80,23 @@ brew tap homebrew/cask
 brew cask install android-file-transfer
 brew cask install caffeine
 brew cask install chrome-devtools
-brew cask install doubletwist
+brew cask install docker
+brew cask install eqmac
 brew cask install flycut
 brew cask install google-chrome
 brew cask install google-hangouts
 brew cask install hipchat
+brew cask install istumbler
 brew cask install kindle
 brew cask install minitube
 brew cask install mysqlworkbench
-brew cask install sourcetree
-brew cask install sublime-text
-brew cask install vagrant
-brew cask install visual-studio-code
-brew cask install vox
-brew cask install wkhtmltopdf
+brew cask install resilio-sync
+brew cask install spotify
+brew cask install telegram
+brew cask install vagrant-manager
+brew cask install vlc
+brew cask install whatsapp
+brew cask install xquartz
 
 brew tap puma/puma
 brew install puma-dev
@@ -107,24 +110,26 @@ brew install chromedriver
 # Other Cask applications
 brew cask install atom
 brew cask install catlight
-brew cask install docker
+brew cask install debookee
+brew cask install doubletwist
 brew cask install filezilla
 brew cask install google-backup-and-sync
 brew cask install google-cloud-sdk
 brew cask install google-notifier
+brew cask install hockey
 brew cask install iterm2
 brew cask install kitematic
 brew cask install musictube
-brew cask install resilio-sync
-brew cask install spotify
-brew cask install telegram
-brew cask install vagrant-manager
-brew cask install vlc
-brew cask install whatsapp
-brew cask install xquartz
+brew cask install netspot
+brew cask install sourcetree
+brew cask install sublime-text
+brew cask install vagrant
+brew cask install visual-studio-code
+brew cask install vox
+brew cask install wkhtmltopdf
 
 # App Store applications
-mas install 682658836 GarageBand ()
+mas install 682658836 GarageBand (10.3.1)
 mas install 408981434 iMovie (10.1.9)
 mas install 409183694 Keynote (8.1)
 mas install 409203825 Numbers (5.1)
