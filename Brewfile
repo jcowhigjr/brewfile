@@ -37,9 +37,9 @@ brew p7zip
 brew pcre
 brew pkg-config
 brew protobuf
+brew pssh
 brew pv
 brew python
-brew qt@5.5
 brew readline
 brew sphinx-doc
 brew sqlite
@@ -68,6 +68,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
+brew qt@5.6
 
 # Other Cask applications
 cask android-file-transfer
@@ -88,6 +89,7 @@ cask google-chrome-canary
 cask google-cloud-sdk
 cask google-hangouts
 cask google-notifier
+cask httpie
 cask istat-menus
 cask istat-server
 cask iterm2
@@ -97,6 +99,7 @@ cask minitube
 cask musictube
 cask mysqlworkbench
 cask resilio-sync
+cask slack
 cask sourcetree
 cask spotify
 cask sublime-text
