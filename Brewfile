@@ -110,14 +110,14 @@ cask iterm2
 cask kindle
 cask minitube
 cask mysqlworkbench
-cask resilio-sync
-cask sourcetree
-cask sublime-text
-cask vagrant
-cask virtualbox
-cask vlc
-cask whatsapp
-cask xquartz
+cask postman
+cask slack
+cask spotify
+cask telegram
+cask vagrant-manager
+cask visual-studio-code
+cask vox
+cask wkhtmltopdf
 
 tap puma/puma
 brew puma-dev
@@ -146,13 +146,14 @@ cask java
 cask kitematic
 cask musictube
 cask onedrive
-cask slack
-cask spotify
-cask telegram
-cask vagrant-manager
-cask visual-studio-code
-cask vox
-cask wkhtmltopdf
+cask resilio-sync
+cask sourcetree
+cask sublime-text
+cask vagrant
+cask virtualbox
+cask vlc
+cask whatsapp
+cask xquartz
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.2)
