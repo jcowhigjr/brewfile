@@ -33,6 +33,7 @@ brew gnutls
 brew go
 brew graphviz
 brew gts
+brew helm
 brew htop
 brew httpie
 brew icu4c
