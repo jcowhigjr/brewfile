@@ -69,6 +69,7 @@ brew ncurses
 brew netpbm
 brew nettle
 brew node
+brew openjdk
 brew openjpeg
 brew openssl@1.1
 brew p11-kit
