@@ -6,9 +6,10 @@ brew antigen
 brew archey
 brew autoconf
 brew aws-iam-authenticator
-brew awscli
+brew awscli@1
 brew bash
 brew bzt
+brew cheat
 brew clang-format
 brew cmake
 brew ctop
@@ -34,6 +35,7 @@ brew go
 brew graphviz
 brew gts
 brew helm
+brew helmfile
 brew htop
 brew httpie
 brew icu4c
@@ -52,6 +54,7 @@ brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
+brew libxkbcommon
 brew libxml2
 brew little-cms2
 brew lynx
@@ -103,6 +106,7 @@ brew watch
 brew watchman
 brew webp
 brew wget
+brew wmctrl
 brew wxmac
 brew xz
 brew yarn
@@ -121,6 +125,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-file-transfer
+cask app-cleaner
 cask atom
 cask balenaetcher
 cask caffeine
@@ -128,16 +133,18 @@ cask catlight
 cask charles
 cask chrome-devtools
 cask datadog-agent
+cask discord
 cask docker
 cask doubletwist
+cask enolsoft-chm-view
 cask firefox
 cask flycut
+cask forticlient
 cask google-backup-and-sync
 cask google-chat
 cask google-chrome
 cask google-cloud-sdk
 cask google-hangouts
-cask google-notifier
 cask graphiql
 cask istat-menus
 cask istat-server
@@ -155,11 +162,14 @@ cask resilio-sync
 cask slack
 cask sourcetree
 cask spotify
+cask steam
 cask sublime-text
 cask telegram
+cask thinkorswim
 cask turbo-boost-switcher
 cask vagrant
 cask vagrant-manager
+cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vox
@@ -167,7 +177,6 @@ cask wechat
 cask whatsapp
 cask wkhtmltopdf
 cask xquartz
-cask zoom
 
 tap puma/puma
 brew puma-dev
@@ -183,6 +192,7 @@ brew python@2
 
 # Other Cask applications
 cask filezilla
+cask google-notifier
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.4)
