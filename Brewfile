@@ -62,7 +62,6 @@ brew mas
 brew memcached
 brew mosh
 brew mvnvm
-brew mysql@5.6
 brew mysql@5.7
 brew ncdu
 brew ncurses
@@ -147,6 +146,7 @@ cask google-chrome
 cask google-cloud-sdk
 cask google-hangouts
 cask graphiql
+cask houseparty
 cask istat-menus
 cask istat-server
 cask iterm2
