@@ -153,6 +153,7 @@ cask iterm2
 cask java
 cask kindle
 cask kitematic
+cask mkchromecast
 cask moom
 cask musictube
 cask mysqlworkbench
@@ -161,6 +162,7 @@ cask overdrive-media-console
 cask postman
 cask resilio-sync
 cask slack
+cask soundflower
 cask sourcetree
 cask spotify
 cask steam
