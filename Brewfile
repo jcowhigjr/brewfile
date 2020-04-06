@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew ack
 brew antigen
 brew archey
 brew autoconf
@@ -128,6 +129,8 @@ cask android-file-transfer
 cask app-cleaner
 cask atom
 cask balenaetcher
+cask battle-net
+cask blackhole
 cask caffeine
 cask catlight
 cask charles
@@ -136,6 +139,7 @@ cask datadog-agent
 cask discord
 cask docker
 cask doubletwist
+cask duo-connect
 cask enolsoft-chm-view
 cask firefox
 cask flycut
