@@ -7,7 +7,7 @@ brew antigen
 brew archey
 brew autoconf
 brew aws-iam-authenticator
-brew awscli@1
+brew awscli
 brew bash
 brew bzt
 brew cheat
