@@ -92,6 +92,7 @@ brew ruby-build
 brew shellcheck
 brew shfmt
 brew skaffold
+brew speedtest-cli
 brew sphinx-doc
 brew sqlite
 brew sslh
@@ -151,12 +152,14 @@ cask google-cloud-sdk
 cask google-hangouts
 cask graphiql
 cask houseparty
+cask igdm
 cask istat-menus
 cask istat-server
 cask iterm2
 cask java
 cask kindle
 cask kitematic
+cask lastpass
 cask mkchromecast
 cask moom
 cask musictube
@@ -166,6 +169,7 @@ cask overdrive-media-console
 cask postman
 cask resilio-sync
 cask slack
+cask sofa-server
 cask soundflower
 cask sourcetree
 cask spotify
