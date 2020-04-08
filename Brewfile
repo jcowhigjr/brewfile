@@ -126,6 +126,7 @@ cask google-chrome-canary
 tap homebrew/services
 
 tap homebrew/cask
+cask airparrot
 cask android-file-transfer
 cask app-cleaner
 cask atom
