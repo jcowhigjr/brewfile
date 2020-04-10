@@ -174,6 +174,7 @@ cask sofa-server
 cask soundflower
 cask sourcetree
 cask spotify
+cask starcraft
 cask steam
 cask sublime-text
 cask telegram
