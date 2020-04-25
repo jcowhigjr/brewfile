@@ -169,6 +169,7 @@ cask onedrive
 cask overdrive-media-console
 cask postman
 cask resilio-sync
+cask skype
 cask slack
 cask sofa-server
 cask soundflower
