@@ -60,6 +60,8 @@ brew libxml2
 brew little-cms2
 brew lynx
 brew mas
+brew md5deep
+brew md5sha1sum
 brew memcached
 brew mosh
 brew mvnvm
@@ -89,6 +91,7 @@ brew rbenv
 brew rbenv-default-gems
 brew readline
 brew ruby-build
+brew ruby-completion
 brew shellcheck
 brew shfmt
 brew skaffold
@@ -167,6 +170,7 @@ cask musictube
 cask mysqlworkbench
 cask onedrive
 cask overdrive-media-console
+cask peakhour
 cask postman
 cask resilio-sync
 cask skype
