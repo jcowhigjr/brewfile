@@ -10,6 +10,7 @@ brew aws-iam-authenticator
 brew awscli
 brew bash
 brew bzt
+brew cairo
 brew cheat
 brew clang-format
 brew cmake
@@ -21,6 +22,7 @@ brew emacs
 brew erlang
 brew fontconfig
 brew freetype
+brew fribidi
 brew gd
 brew gdbm
 brew gettext
@@ -33,8 +35,10 @@ brew gmp
 brew gnu-getopt
 brew gnutls
 brew go
+brew graphite2
 brew graphviz
 brew gts
+brew harfbuzz
 brew helm
 brew helmfile
 brew htop
@@ -59,6 +63,7 @@ brew libxkbcommon
 brew libxml2
 brew little-cms2
 brew lynx
+brew lzo
 brew mas
 brew md5deep
 brew md5sha1sum
@@ -76,7 +81,9 @@ brew openjpeg
 brew openssl@1.1
 brew p11-kit
 brew p7zip
+brew pango
 brew pcre
+brew pixman
 brew pkg-config
 brew postgresql
 brew protobuf
