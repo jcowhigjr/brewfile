@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew ack
+brew adns
 brew antigen
 brew archey
 brew autoconf
@@ -27,12 +28,14 @@ brew gd
 brew gdbm
 brew gettext
 brew ghostscript
+brew git-crypt
 brew git-flow-avh
 brew glib
 brew glide
 brew glooctl
 brew gmp
 brew gnu-getopt
+brew gnupg
 brew gnutls
 brew go
 brew graphite2
@@ -49,16 +52,21 @@ brew jasper
 brew jmeter
 brew jpeg
 brew krb5
+brew libassuan
 brew libconfig
 brew libevent
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libidn2
+brew libksba
 brew libpng
 brew libsass
 brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libxkbcommon
 brew libxml2
 brew little-cms2
@@ -76,6 +84,7 @@ brew ncurses
 brew netpbm
 brew nettle
 brew node
+brew npth
 brew openjdk
 brew openjpeg
 brew openssl@1.1
@@ -83,6 +92,7 @@ brew p11-kit
 brew p7zip
 brew pango
 brew pcre
+brew pinentry
 brew pixman
 brew pkg-config
 brew postgresql
