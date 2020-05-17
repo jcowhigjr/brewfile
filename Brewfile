@@ -158,6 +158,7 @@ cask catlight
 cask charles
 cask chrome-devtools
 cask datadog-agent
+cask deltawalker
 cask discord
 cask docker
 cask doubletwist
@@ -178,6 +179,7 @@ cask istat-menus
 cask istat-server
 cask iterm2
 cask java
+cask kaleidoscope
 cask kindle
 cask kitematic
 cask lastpass
