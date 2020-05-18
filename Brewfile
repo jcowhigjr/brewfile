@@ -103,7 +103,7 @@ brew pssh
 brew pv
 brew python
 brew python@3.8
-brew qt
+brew qt@5.5
 brew rbenv
 brew rbenv-default-gems
 brew readline
@@ -234,6 +234,7 @@ cask google-notifier
 # App Store applications
 appstore 682658836 GarageBand (10.3.4)
 appstore 408981434 iMovie (10.1.14)
-appstore 409183694 Keynote (9.2.1)
-appstore 409201541 Pages (8.2.1)
+appstore 409183694 Keynote (10.0)
+appstore 409201541 Pages (10.0)
 appstore 822514576 SonicWall Mobile Connect (5.0.1)
+appstore 497799835 Xcode (11.4.1)
