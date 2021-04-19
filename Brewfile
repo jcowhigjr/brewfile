@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 tap homebrew/core
@@ -10,100 +9,24 @@ brew autoconf
 brew aws-iam-authenticator
 brew awscli
 brew bash
+brew bat
 brew bzt
-brew cairo
 brew cheat
+brew circleci
 brew clang-format
 brew cmake
 brew ctop
 brew dep
 brew docker
-brew elixir
-brew emacs
-brew erlang
-brew fontconfig
-brew freetype
-brew fribidi
-brew gd
-brew gdbm
-brew gettext
-brew ghostscript
-brew git-crypt
-brew git-flow-avh
-brew glib
-brew glide
-brew glooctl
-brew gmp
-brew gnu-getopt
-brew gnupg
-brew gnutls
-brew go
-brew graphite2
-brew graphviz
-brew gts
-brew harfbuzz
 brew helm
 brew helmfile
 brew htop
 brew httpie
-brew icu4c
-brew imagemagick@6
-brew jasper
-brew jmeter
-brew jpeg
-brew krb5
-brew libassuan
-brew libconfig
-brew libevent
-brew libffi
-brew libgcrypt
-brew libgpg-error
-brew libidn2
-brew libksba
-brew libpng
-brew libsass
-brew libtasn1
-brew libtiff
-brew libtool
-brew libunistring
-brew libusb
-brew libxkbcommon
-brew libxml2
-brew little-cms2
-brew lynx
-brew lzo
-brew mas
-brew md5deep
-brew md5sha1sum
-brew memcached
 brew mosh
-brew mvnvm
-brew mysql@5.7
 brew ncdu
 brew ncurses
-brew netpbm
-brew nettle
-brew node
-brew npth
-brew openjdk
-brew openjpeg
-brew openssl@1.1
-brew p11-kit
-brew p7zip
-brew pango
-brew pcre
-brew pinentry
-brew pixman
-brew pkg-config
-brew postgresql
 brew protobuf
-brew protobuf@3.7
-brew protoc-gen-go
-brew pssh
 brew pv
-brew python
-brew python@3.8
-brew qt@5.5
 brew rbenv
 brew rbenv-default-gems
 brew readline
@@ -111,27 +34,15 @@ brew ruby-build
 brew ruby-completion
 brew shellcheck
 brew shfmt
-brew skaffold
-brew speedtest-cli
-brew sphinx-doc
 brew sqlite
 brew sslh
-brew swig
-brew telnet
 brew terraform
 brew tflint
 brew the_silver_searcher
 brew tree
 brew unbound
-brew v8
-brew watch
-brew watchman
-brew webp
-brew wget
-brew wmctrl
-brew wxmac
-brew xz
 brew yarn
+brew yq
 brew zsh
 brew zsh-completions
 
@@ -146,74 +57,29 @@ cask google-chrome-canary
 tap homebrew/services
 
 tap homebrew/cask
-cask airparrot
-cask android-file-transfer
 cask app-cleaner
-cask atom
 cask balenaetcher
-cask battle-net
-cask blackhole
 cask caffeine
 cask catlight
 cask charles
-cask chrome-devtools
-cask datadog-agent
-cask deltawalker
-cask discord
 cask docker
-cask doubletwist
-cask duo-connect
-cask enolsoft-chm-view
-cask firefox
 cask flycut
-cask forticlient
-cask google-backup-and-sync
 cask google-chat
 cask google-chrome
-cask google-cloud-sdk
 cask google-hangouts
 cask graphiql
-cask houseparty
-cask igdm
-cask istat-menus
-cask istat-server
 cask iterm2
-cask java
-cask kaleidoscope
-cask kindle
-cask kitematic
 cask lastpass
-cask mkchromecast
-cask moom
-cask musictube
-cask mysqlworkbench
-cask onedrive
-cask overdrive-media-console
-cask peakhour
-cask postman
-cask resilio-sync
-cask skype
 cask slack
-cask sofa-server
-cask soundflower
 cask sourcetree
 cask spotify
-cask starcraft
-cask steam
-cask sublime-text
-cask telegram
 cask thinkorswim
-cask turbo-boost-switcher
-cask vagrant
-cask vagrant-manager
-cask virtualbox
 cask visual-studio-code
-cask vlc
-cask vox
-cask wechat
 cask whatsapp
-cask wkhtmltopdf
-cask xquartz
+cask zoom
+
+tap bibendi/dip
+brew dip
 
 tap puma/puma
 brew puma-dev
@@ -221,20 +87,11 @@ brew puma-dev
 tap rcmdnk/file
 brew brew-file
 
-tap wata727/tflint
 
 # Other Homebrew packages
-brew chromedriver
-brew python@2
 
 # Other Cask applications
-cask filezilla
-cask google-notifier
 
 # App Store applications
-appstore 682658836 GarageBand (10.3.4)
-appstore 408981434 iMovie (10.1.14)
-appstore 409183694 Keynote (10.0)
-appstore 409201541 Pages (10.0)
-appstore 822514576 SonicWall Mobile Connect (5.0.1)
-appstore 497799835 Xcode (11.5)
+
+
