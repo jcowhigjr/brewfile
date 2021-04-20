@@ -17,7 +17,6 @@ brew clang-format
 brew cmake
 brew ctop
 brew dep
-brew docker
 brew helm
 brew helmfile
 brew htop
@@ -61,7 +60,6 @@ cask app-cleaner
 cask balenaetcher
 cask caffeine
 cask catlight
-cask charles
 cask docker
 cask flycut
 cask google-chat
