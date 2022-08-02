@@ -94,6 +94,7 @@ brew jbig2dec
 brew jemalloc
 brew jmeter
 brew jpeg
+brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew krb5
