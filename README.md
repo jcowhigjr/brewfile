@@ -1,5 +1,5 @@
 # brewfile
 brew install brew-file
-brew-file set_repo git@github.com:jcowhigjr/brewfile.git
+brew-file set_repo jcowhigjr/brewfile
 brew file init
 git config remote.origin.push HEAD
