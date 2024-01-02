@@ -35,9 +35,6 @@ brew puma-dev
 tap rcmdnk/file
 brew brew-file
 
-tap stripe/stripe-cli
-brew stripe
-
 tap wata727/tflint
 
 # Other Homebrew packages
@@ -105,10 +102,7 @@ cask google-notifier
 cask graphiql
 cask houseparty
 cask igdm
-cask istat-menus
-cask istat-server
 cask iterm2
-cask java
 cask kaleidoscope
 cask kindle
 cask kitematic
