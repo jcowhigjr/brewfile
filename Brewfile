@@ -24,7 +24,6 @@ brew fastly
 
 tap heroku/brew
 brew heroku
-brew heroku-node
 
 tap ngrok/ngrok
 cask ngrok
@@ -35,30 +34,67 @@ brew puma-dev
 tap rcmdnk/file
 brew brew-file
 
+tap stripe/stripe-cli
+brew stripe
+
 tap wata727/tflint
 
 # Other Homebrew packages
 brew antigen
+brew autoconf
+brew automake
 brew bash
 brew brotli
 brew bzt
 brew ca-certificates
-brew cffi
 brew clamav
 brew ctop
 brew foreman
+brew gcc
+brew gettext
 brew gh
 brew git
 brew git-crypt
 brew git-flow-avh
+brew gmp
+brew gnu-getopt
+brew go
 brew helm
 brew helmfile
 brew htop
+brew icu4c
+brew isl
+brew jansson
+brew json-c
+brew krb5
+brew libcython
+brew libevent
+brew libidn2
 brew libmagic
+brew libmpc
+brew libpq
+brew libtool
+brew libunistring
+brew libyaml
+brew lz4
+brew m4
+brew mas
+brew mpfr
 brew mysql@5.7
 brew ncdu
 brew ncurses
+brew node-build
 brew nodenv
+brew numpy
+brew openblas
+brew openssl@1.1
+brew openssl@3
+brew pcre
+brew pcre2
+brew pkg-config
+brew protobuf
+brew protobuf-c
+brew pyyaml
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -67,25 +103,26 @@ brew ruby-build
 brew ruby-completion
 brew shellcheck
 brew shfmt
+brew six
 brew speedtest-cli
 brew sqlite
 brew the_silver_searcher
 brew tree
 brew v8
-brew webp
 brew wget
+brew xz
+brew yara
 brew yarn
 brew zsh
 brew zsh-completions
+brew zstd
 
 # Other Cask applications
 cask android-file-transfer
-cask atom
 cask balenaetcher
 cask battle-net
 cask blackhole
 cask caffeine
-cask chrome-devtools
 cask chromium
 cask datadog-agent
 cask discord
@@ -103,9 +140,8 @@ cask graphiql
 cask houseparty
 cask igdm
 cask iterm2
+cask java
 cask kaleidoscope
-cask kindle
-cask kitematic
 cask lastpass
 cask livebook
 cask microsoft-auto-update
@@ -143,7 +179,6 @@ cask vlc
 cask vox
 cask wechat
 cask whatsapp
-cask wkhtmltopdf
 cask xquartz
 cask zoom
 
